@@ -1,0 +1,15 @@
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\bin\Debug\net8.0\M4_SWENG421.exe
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\bin\Debug\net8.0\M4_SWENG421.deps.json
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\bin\Debug\net8.0\M4_SWENG421.runtimeconfig.json
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\bin\Debug\net8.0\M4_SWENG421.dll
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\bin\Debug\net8.0\M4_SWENG421.pdb
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\obj\Debug\net8.0\M4_SWENG421.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\obj\Debug\net8.0\M4_SWENG421.AssemblyInfoInputs.cache
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\obj\Debug\net8.0\M4_SWENG421.AssemblyInfo.cs
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\obj\Debug\net8.0\M4_SWENG421.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\obj\Debug\net8.0\M4_SWENG421.sourcelink.json
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\obj\Debug\net8.0\M4_SWENG421.dll
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\obj\Debug\net8.0\refint\M4_SWENG421.dll
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\obj\Debug\net8.0\M4_SWENG421.pdb
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\obj\Debug\net8.0\M4_SWENG421.genruntimeconfig.cache
+C:\Users\nisha\source\repos\M4_SWENG421\M4_SWENG421\obj\Debug\net8.0\ref\M4_SWENG421.dll
