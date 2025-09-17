@@ -27,7 +27,6 @@ namespace p2
             Id = id;
             Price = price;
             Name = name;
-            Price = price;
         }
 
         // enable IComparable for List.Sort quicksort path
